@@ -3,7 +3,7 @@ Simple app to generate and download a QR code that can be used to share a link
 
 Live Demo https://qr-code-generator-3z0z.onrender.com
 
-![QR Code Generator](<Screenshot from 2024-02-14 10-45-03.png>)
+![QR Code Generator](<qrcode.png>)
 
 MIT License
 
